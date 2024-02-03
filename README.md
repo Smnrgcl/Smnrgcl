@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm SEMANUR</h1>
-- 📫 **smnrguclu06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- 📫 **smnrguclu06@gmail.com**
+
 <p align="left">
 </p>
 
